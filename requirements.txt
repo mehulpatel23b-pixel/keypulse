@@ -1,0 +1,2 @@
+# keypulse uses the Python standard library only.
+# This file exists so CI tooling and humans can see the zero-dependency guarantee.
